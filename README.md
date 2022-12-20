@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Stephen Kaguri
-- 👀 I’m a software engineer with close to 4 years in the industry
-- 🌱 I’m currently a senior android engineer at Teleeza Africa
-- 💞️ I’m looking to collaborate on interesting projects, including joining the big tech industries
-- 📫 You can reach me via
+- Hi, I’m Stephen Kaguri
+- I’m a software engineer with close to 4 years in the industry
+- I’m currently a senior android engineer at Teleeza Africa
+- I’m looking to collaborate on interesting projects, including joining the big tech industries
+- You can reach me via
 - https://www.linkedin.com/in/stephen-kaguri/
 - https://stackoverflow.com/users/15516982/stephen-kaguri
 
