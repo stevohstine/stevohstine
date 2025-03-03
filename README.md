@@ -15,7 +15,7 @@
 
 ## <img width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> About Me
 
-I'm a passionate Software Developer from Nairobi, crafting digital solutions that make a difference. Through research, innovation, coaching and learning, I have had different experiences with diverse teams, perfecting my ability to deliver effectively as a team
+My name is Stephen Kaguri, a Kenyan Citizen and a professional software engineer. Advancement in Technology is my drive and through passion and interest, I am able to deliver every task based on timelines and demand. Through research, innovation, peer coaching and learning, I have had different experiences with diverse teams, perfecting my ability to deliver effectively as a team.
 
 <br/>
 
