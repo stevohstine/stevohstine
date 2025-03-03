@@ -52,20 +52,20 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 - 🔹 API Gateway, Load Balancing, & Security Best Practices
 
 💻 Backend Development
-🔹 C# (.NET, Blazor Server) for RESTful APIs
-🔹 Spring Boot (Java/Kotlin) for RESTful APIs
-🔹 Microservices architecture with Kafka
+- 🔹 C# (.NET, Blazor Server) for RESTful APIs
+- 🔹 Spring Boot (Java/Kotlin) for RESTful APIs
+- 🔹 Microservices architecture with Kafka
 
 📱 Mobile Development
-🔹 Android Development with Kotlin & Java
+- 🔹 Android Development with Kotlin & Java
 
 🌐 Web Development
-🔹 React.js for modern web applications
-🔹 Blazor Server for C#-based web apps
+- 🔹 React.js for modern web applications
+- 🔹 Blazor Server for C#-based web apps
 
 🛠️ DevOps & Cloud Solutions
-🔹 AWS & DigitalOcean for cloud infrastructure
-🔹 CI/CD Pipelines, Containerization (Docker & Kubernetes)
+- 🔹 AWS & DigitalOcean for cloud infrastructure
+- 🔹 CI/CD Pipelines, Containerization (Docker & Kubernetes)
 
 <br/>
 
