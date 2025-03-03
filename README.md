@@ -48,8 +48,8 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 ## 🎯 Current Focus
 
 🏗️ Solutions Architecture
-🔹 Designing scalable & robust system architectures
-🔹 API Gateway, Load Balancing, & Security Best Practices
+- 🔹 Designing scalable & robust system architectures
+- 🔹 API Gateway, Load Balancing, & Security Best Practices
 
 💻 Backend Development
 🔹 C# (.NET, Blazor Server) for RESTful APIs
