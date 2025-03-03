@@ -19,7 +19,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <br/>
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack/Skills
 
 <div align="center">
   
@@ -28,6 +28,12 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   ![Backend Dev Java/Kotlin Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+  ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=cloud&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![HiveMQ MQTT](https://img.shields.io/badge/HiveMQ-MQTT-FFCC00?style=for-the-badge&logo=hivemq&logoColor=black)
   
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
