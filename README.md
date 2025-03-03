@@ -79,6 +79,6 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=munyite001&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=stevohstine&color=blueviolet" alt="Profile Views">
   </p>
 </div>
