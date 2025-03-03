@@ -25,7 +25,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   
   ![Backend Dev .NET C#](https://img.shields.io/badge/.NET_C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Android Dev Kotlin, Java](https://img.shields.io/badge/Android_Kotlin_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Backend Dev Java/Kotlin Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Spring Boot Java Kotlin](https://img.shields.io/badge/Spring_Boot-Java_Kotlin-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
