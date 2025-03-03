@@ -47,11 +47,25 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 ## 🎯 Current Focus
 
-- 🌟 Developing scalable web applications using the MERN stack
-- 🔍 Crafting advanced web scraping solutions with Python & Scrapy
-- 📊 Building interactive dashboards and data visualization tools
-- 🚀 Exploring microservices architecture with Docker
-- 📚 Building multi-platform Mobile Apps using React Native
+🏗️ Solutions Architecture
+🔹 Designing scalable & robust system architectures
+🔹 API Gateway, Load Balancing, & Security Best Practices
+
+💻 Backend Development
+🔹 C# (.NET, Blazor Server) for RESTful APIs
+🔹 Spring Boot (Java/Kotlin) for RESTful APIs
+🔹 Microservices architecture with Kafka
+
+📱 Mobile Development
+🔹 Android Development with Kotlin & Java
+
+🌐 Web Development
+🔹 React.js for modern web applications
+🔹 Blazor Server for C#-based web apps
+
+🛠️ DevOps & Cloud Solutions
+🔹 AWS & DigitalOcean for cloud infrastructure
+🔹 CI/CD Pipelines, Containerization (Docker & Kubernetes)
 
 <br/>
 
