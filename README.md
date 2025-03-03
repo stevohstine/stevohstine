@@ -27,12 +27,12 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
   ![Android Dev Kotlin, Java](https://img.shields.io/badge/Android_Kotlin_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Backend Dev Java/Kotlin Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Solutions Architect](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Solutions Architect](https://img.shields.io/badge/Solutions_Architect-000000?style=for-the-badge&logo=architect&logoColor=white)
   
-  ![Sql](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MsSql](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MsSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   
 </div>
 
