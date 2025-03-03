@@ -79,7 +79,7 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="center">
   <p>
-    <strong>📧 Email:</strong> emunyite@gmail.com<br/>
+    <strong>📧 Email:</strong> kaguris96@gmail.com<br/>
     <strong>🌐 Location:</strong> Nairobi, Kenya 🇰🇪<br/>
     <strong>💼 Open to:</strong> Collaborative projects and opportunities
   </p>
