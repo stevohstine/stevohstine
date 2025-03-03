@@ -51,11 +51,11 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 
 <div align="center">
   <a href="https://github.com/munyite001/VROOM-V2-NODE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=VROOM-V2-NODE&theme=tokyonight" alt="VROOM V2 Node" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevohstine&repo=VROOM-V2-NODE&theme=tokyonight" alt="VROOM V2 Node" width="400">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/munyite001/OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=munyite001&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight" alt="Overseas Employee Management" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=stevohstine&repo=OVERSEAS-EMPLOYEE-TRACKING-AND-MANAGEMENT-SYSTEM&theme=tokyonight" alt="Overseas Employee Management" width="400">
   </a>
 </div>
 
@@ -64,9 +64,9 @@ I'm a passionate Software Developer from Nairobi, crafting digital solutions tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munyite001&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevohstine&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=munyite001&theme=react" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=stevohstine&theme=react" alt="GitHub Streak" width="400">
   
   <br/>
   <br/>
