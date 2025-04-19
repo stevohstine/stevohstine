@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stephen+Kaguri+%F0%9F%91%8B;Full-Stack+Developer+and+Software+Engineer;Building+Innovative+Solutions+from+Nairobi%2C+Kenya" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Stephen+Kaguri+%F0%9F%91%8B;Full-Stack+Software+Engineer;Developing+Innovative+Solutions+in+Nairobi%2C+Kenya" alt="Typing SVG" />
 </div>
 
-<h1 align="center">🚀 Building Tomorrow's Systems Today</h1>
+<h1 align="center">🌍 Empowering the Future with Intelligent Systems</h1>
 
 <div align="center">
   
